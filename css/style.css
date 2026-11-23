@@ -75,7 +75,6 @@ body {
     border-radius: 0;
 }
 
-
 /* bordas especiais: contorno preto com cantos "cortados" + sombra em degrau */
 .btn-px, .btn-px:hover, .btn-px:focus-visible,
 .navbar-px .navbar-toggler, .navbar-px .navbar-toggler:focus {
@@ -132,7 +131,6 @@ body {
     box-shadow: 0 0 0 2px #000000;
 }
 /* xx==xx==xx==xx==xx== (DAYANE) xx==xx==xx==xx==xx== */
-
 
 /* ==================== (IGOR) =================== */
     /* CSS do igor aqui */
