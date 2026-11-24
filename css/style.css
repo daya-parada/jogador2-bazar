@@ -134,6 +134,94 @@ body {
 
 /* ==================== (IGOR) =================== */
     /* CSS do igor aqui */
+
+    /* HERO */
+
+/* ==================== (IGOR - HERO) =================== */
+.btn-px-green {
+    --bs-btn-bg: #00e436;
+    --bs-btn-hover-bg: #ffec27;
+    --bs-btn-active-bg: #008751;
+    --bs-btn-active-color: #fff1e8;
+}
+
+.hero-box {
+    background-color: #fff1e8;
+    color: #000000;
+    border: 4px solid #000000;
+    box-shadow: 10px 10px 0 0 #000000;
+}
+
+.hero-tag {
+    background-color: #ff004d;
+    color: #fff1e8;
+    font-family: "Press Start 2P", "Courier New", monospace;
+    font-size: .55rem;
+    line-height: 1.5;
+    padding: .45rem .65rem;
+    border: 2px solid #000000;
+    text-transform: uppercase;
+}
+
+.hero-title {
+    font-family: "Press Start 2P", "Courier New", monospace;
+    font-size: clamp(1.1rem, 2.4vw, 1.75rem);
+    line-height: 1.55;
+    color: #000000;
+}
+
+.hero-hl-yellow {
+    background-color: #ffec27;
+    padding: 0 .25rem;
+    box-shadow: 0 -2px 0 #ffec27, 0 2px 0 #ffec27;
+}
+
+.hero-lead {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.05rem;
+    line-height: 1.55;
+    color: #1d2b53;
+    max-width: 58ch;
+}
+
+.hero-card {
+    background-color: #1d2b53;
+    color: #fff1e8;
+    border: 3px solid #000000;
+    box-shadow: 6px 6px 0 0 #ffa300;
+}
+
+.hero-card-header {
+    font-family: "Press Start 2P", "Courier New", monospace;
+    font-size: .62rem;
+    color: #ffec27;
+    letter-spacing: .04em;
+    border-bottom: 2px solid #5f574f;
+    padding-bottom: .6rem;
+}
+
+.hero-modes {
+    font-family: "Courier New", Courier, monospace;
+    font-size: .95rem;
+    line-height: 1.45;
+}
+
+.hero-modes .bi {
+    font-size: 1.1rem;
+    margin-top: .1rem;
+    flex-shrink: 0;
+}
+
+.text-pink  { color: #ff77a8; }
+.text-blue  { color: #29adff; }
+.text-green { color: #00e436; }
+/* xx==xx==xx==xx==xx== (IGOR - HERO) xx==xx==xx==xx==xx== */
+
+    
+/* ===== HERO ===== */
+
+
+
 /* xx==xx==xx==xx==xx== (IGOR) xx==xx==xx==xx==xx== */
 
 
